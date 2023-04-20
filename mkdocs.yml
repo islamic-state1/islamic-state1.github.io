@@ -25,5 +25,23 @@ extra:
           link: t.me/flsdjhfskjdhfskdjfhsdkjfhskjf
     generator: false
 nav:
+    - News: 
+        - index.md
+    - Directory:
+        - directory/index.md
     - Security:
         - security/index.md
+        - Encryption: security/anon_guide.md
+        - Whonix: security/anon_guide.md
+        - Seperating your identify: security/anon_guide.md
+        - Disposable phone: security/anon_guide.md
+        - Disposable credit card: security/anon_guide.md
+        - Secure money transfer: security/anon_guide.md
+        - Possible alibis: security/anon_guide.md
+        - Telegram w. disposable number: security/anon_guide.md
+    - Media Jihad:
+        - Mjihad/index.md
+    - Armed Jihad:
+        - Qital/index.md
+    - Donate:
+        - donate/index.md

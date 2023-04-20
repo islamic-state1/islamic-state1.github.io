@@ -4,10 +4,19 @@ hide:
   - toc
 ---
 
-# News
+# Index
 
 Last updated 04/20/2023
 
+## Social
+
+* [RocketChat](chat.techhaven.to) (down as per 04/20/2023)
+
+## Media links
+
+* [Archive.org](https://archive.org/search?query=dawlat&sort=-addeddate)
+* [fahras.re](https://fahras.re/) (down)
+* [raud.wf](https://raud.wf/) (down)
 
 
 
