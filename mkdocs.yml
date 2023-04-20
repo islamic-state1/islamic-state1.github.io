@@ -1,5 +1,4 @@
 site_name: Islamic State
-
 theme:
   name: material
   palette:
@@ -14,11 +13,17 @@ theme:
     - navigation.path
     - navigation.instant
 markdown_extensions:
+    - pymdownx.tabbed:
+        alternate_style: true
     - attr_list
     - pymdownx.caret
     - pymdownx.mark
     - pymdownx.tilde
-    
+extra:
+    social:
+        - icon: fontawesome/solid/paper-plane
+          link: t.me/flsdjhfskjdhfskdjfhsdkjfhskjf
+    generator: false
 nav:
     - Security:
         - security/index.md
