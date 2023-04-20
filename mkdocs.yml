@@ -1,4 +1,24 @@
-site_name: Islamic Statee
+site_name: Islamic State
 
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: white
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.instant
+markdown_extensions:
+    - attr_list
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    
+nav:
+    - Security:
+        - security/index.md
